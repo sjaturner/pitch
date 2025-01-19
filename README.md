@@ -51,10 +51,12 @@ instruments?  I don't.
 
 If you are within the extremely select group of people who are interested
 in this and run Debian, I'd be fascinated to know what your stats
-were. And it would make an interesting Citizen Science project and a
-**very dull** game.
+were.
 
-If I had the skills, I'd turn this into an app and / or a webpage. I'm
-curious about absolute pitch perception and whether there are tricks to
-improve it.
+If I had the skills, I'd turn this into an app and / or a webpage.
+It would make an interesting Citizen science project and a **very dull**
+game.
+
+I'm curious about absolute pitch perception and whether there are tricks
+to improve it.
 
